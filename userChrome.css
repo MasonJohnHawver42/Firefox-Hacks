@@ -1,0 +1,12 @@
+
+/* @import url(firefox-csshacks/chrome/tab_close_button_always_on_hover.css); */
+@import url(firefox-csshacks/chrome/navbar_tabs_oneliner.css);
+@import url(firefox-csshacks/chrome/autohide_navigation_button.css);
+
+@import url(firefox-csshacks/chrome/icon_only_tabs.css);
+
+@import url(firefox-csshacks/chrome/more_visible_tab_icon.css);
+
+@import url(firefox-csshacks/chrome/autohide_bookmarks_toolbar.css);
+
+#urlbar-zoom-button {display:none!important}
